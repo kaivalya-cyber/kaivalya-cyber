@@ -1,5 +1,45 @@
-# 💫 About Me:
-🔭 I’m currently working on reinforcement learning<br>👯 I’m looking to collaborate on any ai related tasks<br>🤝 I’m looking for help with mujoco + ML learning<br>🌱 I’m currently learning Mujoco+ Open Ai gymnasium with RL<br>💬 Ask me about<br>⚡ Fun fact
+About Me
+
+Current Focus: Reinforcement Learning, control systems, and optimization
+
+Technical Interests:
+
+Reinforcement Learning (policy optimization, value-based methods)
+
+Simulation environments (MuJoCo, Gymnasium)
+
+Robotics & multi-agent systems
+
+Applied machine learning for real-world control problems
+
+Currently Working On:
+
+Training RL agents in MuJoCo environments
+
+Exploring policy gradient methods and actor–critic architectures
+
+Building reproducible experimentation pipelines
+
+Open to Collaborate On:
+
+RL research projects
+
+Robotics simulation experiments
+
+Control + ML hybrid systems
+
+Interesting optimization problems
+
+Currently Learning:
+
+Advanced RL theory
+
+MuJoCo physics modeling
+
+Stable-Baselines3 & custom training loops
+
+⚡ Long-Term Goal:
+To build intelligent control systems that bridge machine learning and real-world robotics.
 
 
 ## 🌐 Socials:
