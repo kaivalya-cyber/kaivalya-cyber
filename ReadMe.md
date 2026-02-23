@@ -1,44 +1,29 @@
-About Me
-
+ About Me
 Current Focus: Reinforcement Learning, control systems, and optimization
 
-Technical Interests:
-
+  Technical Interests:
 Reinforcement Learning (policy optimization, value-based methods)
-
 Simulation environments (MuJoCo, Gymnasium)
-
 Robotics & multi-agent systems
-
 Applied machine learning for real-world control problems
 
-Currently Working On:
-
+  Currently Working On:
 Training RL agents in MuJoCo environments
-
 Exploring policy gradient methods and actor–critic architectures
-
 Building reproducible experimentation pipelines
 
-Open to Collaborate On:
-
+  Open to Collaborate On:
 RL research projects
-
 Robotics simulation experiments
-
 Control + ML hybrid systems
-
 Interesting optimization problems
 
-Currently Learning:
-
+  Currently Learning:
 Advanced RL theory
-
 MuJoCo physics modeling
-
 Stable-Baselines3 & custom training loops
 
-⚡ Long-Term Goal:
+  Long-Term Goal:
 To build intelligent control systems that bridge machine learning and real-world robotics.
 
 
