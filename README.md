@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/kaivalya-singh-732190374/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00F5FF)](https://instagram.com/kaivy_sngh)
-[![GitHub](https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=B967FF)](https://github.com/kaivalya-cyber)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:singh.kaivalya@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaivalya-cyber&label=Profile%20Views&color=302b63&style=flat-square)
