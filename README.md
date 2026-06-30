@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:1B1036&height=200&section=header&text=Kaivalya%20Singh&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Builder%20%E2%80%A2%20Researcher%20%E2%80%A2%20Relay%20Specialist&descAlignY=55&descSize=18&descColor=B967FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:1B1036&height=200&section=header&text=Kaivalya%20Singh&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Builder%20%E2%80%A2%20Researcher%20%E2%80%A2%20Innovator%&descAlignY=55&descSize=18&descColor=B967FF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?entrepreneur;software engineer;Training+to+swim+fast%2C+coding+to+ship+faster" alt="Typing SVG" />
 
