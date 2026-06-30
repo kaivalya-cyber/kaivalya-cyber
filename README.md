@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:1B1036&height=200&section=header&text=Kaivalya%20Singh&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Builder%20%E2%80%A2%20Researcher%20%E2%80%A2%20Relay%20Specialist&descAlignY=55&descSize=18&descColor=B967FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Leading+Synthica+%E2%80%94+RL%2FML+Research;Built+PureGrad+from+scratch+in+NumPy;FTC+Robotics+%23+Qbit+23642;Training+to+swim+fast%2C+coding+to+ship+faster" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?entrepreneur;software engineer;Training+to+swim+fast%2C+coding+to+ship+faster" alt="Typing SVG" />
 
 <br/>
 
