@@ -103,15 +103,6 @@ I build things that sit between **research and code** — RL papers with real ma
 
 ---
 
-### `currently`
-
-- 🧪 Finalizing arXiv submission on reward shaping & LSR (cs.LG, cross-listed eess.SY / cs.RO)
-- 🧭 Deciding Synthica's next research direction — chaotic benchmarks, sample efficiency, curriculum/meta-RL
-- 🤖 Building toward GSoC 2027 — early contributions to ML4SCI, ArduPilot, OpenCV
-- 🌐 Pursuing the n8n Ambassador program
-- 🎨 Redesigning my [portfolio site](https://kaivalyasinghportfolio.vercel.app)
-
----
 
 <div align="center">
 
