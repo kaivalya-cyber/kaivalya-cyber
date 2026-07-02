@@ -154,15 +154,6 @@ STEM nonprofit platform with real-time volunteer feed, atomic claim logic, Googl
 
 ---
 
-### `currently`
-
-- ⚛️ Submitting QEC decoder paper to arXiv (cs.ET / quant-ph)
-- 📐 Finalizing reward shaping research — LSR metric, chaotic RL benchmarking guidelines
-- 🧭 Directing Synthica's next research sprint — sample efficiency, curriculum learning, meta-RL
-- 🤖 Early contributions toward GSoC 2027 — ML4SCI, ArduPilot, OpenCV
-- 🌐 Pursuing n8n Ambassador program
-
----
 
 <div align="center">
 
